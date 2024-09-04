@@ -50,7 +50,7 @@ Members:
 2. Shayn
 3. Shazvinddan
 
-URL:https://github.com/haavi08/pythonhackathon2024
+URL:https://github.com/haavi08/Space-Shooter/tree/main
 
 ## Mayo
 
