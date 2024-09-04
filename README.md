@@ -105,7 +105,7 @@ URL:https://github.com/yennee331/royalmonkey.git
 2. Lee Guan Yi
 3. Aadhithya a/l Tharshana Moorthi
 
-URL: https://github.com/Fooisntcat/python2024hackathon/
+URL: https://github.com/Fooisntcat/dodge-the-cube
 
 ## The Spice Deciders
 
